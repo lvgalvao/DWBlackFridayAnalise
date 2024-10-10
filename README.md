@@ -1,61 +1,54 @@
-# Projeto de Análise de Dados com LangChain e SQL
+# Análise de Dados do Google Analytics
 
-## Descrição
+Este projeto consiste em dois scripts Python para extrair dados do Google Analytics de um banco de dados PostgreSQL e realizar análises usando a API da OpenAI.
 
-Este projeto tem como objetivo realizar uma análise de dados utilizando Python e SQL, com a possibilidade de integração futura com a biblioteca LangChain. O foco inicial é extrair dados de um banco de dados SQL e salvá-los em um arquivo CSV para análises posteriores.
+## Arquivos do Projeto
 
-## Objetivos
+1. `sql_to_csv.py`: Extrai dados de uma tabela PostgreSQL e os salva em um arquivo CSV.
+2. `teste_chatgpt.py`: Carrega os dados do CSV e realiza análises usando a API da OpenAI (GPT-3.5 Turbo).
+3. `.env`: Arquivo de configuração contendo variáveis de ambiente (não incluído no repositório por segurança).
 
-- Conectar-se a um banco de dados SQL usando variáveis de ambiente
-- Extrair dados de uma tabela específica
-- Salvar os dados extraídos em um arquivo CSV
-- Preparar o terreno para futuras análises com LangChain
+## Configuração
 
-## Tecnologias Utilizadas
+1. Crie um arquivo `.env` na raiz do projeto com as seguintes variáveis:
 
-- Python
-- pandas
-- SQLAlchemy
-- python-dotenv
-- SQL (para consultas ao banco de dados)
+```
+DATABASE_URL=sua_url_do_banco_de_dados
+NOME_TABELA=nome_da_sua_tabela
+OPENAI_API_KEY=sua_chave_api_da_openai
+```
 
-## Como Começar
+2. Instale as dependências necessárias:
 
-1. Clone este repositório
-2. Crie um arquivo `.env` na raiz do projeto com as seguintes variáveis:
-   ```
-   DATABASE_URL=sua_url_do_banco_de_dados
-   NOME_TABELA=nome_da_sua_tabela
-   ```
-3. Instale as dependências necessárias:
-   ```
-   pip install pandas sqlalchemy python-dotenv
-   ```
-4. Execute o script principal:
-   ```
-   python sql_to_csv.py
-   ```
+```
+pip install pandas python-dotenv sqlalchemy openai
+```
 
-## Estrutura do Projeto
+## Como Executar
 
-- `sql_to_csv.py`: Script principal que extrai dados do banco de dados e cria um arquivo CSV
-- `README.md`: Este arquivo, contendo informações sobre o projeto
-- `.env`: Arquivo de configuração com variáveis de ambiente (não incluído no repositório)
+1. Execute o script `sql_to_csv.py` para extrair os dados do banco de dados e criar o arquivo CSV:
 
-## Funcionamento do main.py
+```
+python sql_to_csv.py
+```
 
-O script `sql_to_csv.py` realiza as seguintes operações:
+2. Execute o script `teste_chatgpt.py` para realizar análises usando a API da OpenAI:
 
-1. Carrega as variáveis de ambiente do arquivo `.env`
-2. Estabelece uma conexão com o banco de dados usando a URL fornecida
-3. Executa uma consulta SQL para selecionar todos os dados da tabela especificada
-4. Carrega os resultados da consulta em um DataFrame do pandas
-5. Salva o DataFrame como um arquivo CSV com o nome da tabela
+```
+python teste_chatgpt.py
+```
 
-Este processo permite extrair facilmente os dados do banco de dados para análises futuras, possivelmente utilizando LangChain ou outras ferramentas de análise de dados.
+## Descrição dos Scripts
 
-## Próximos Passos
+### sql_to_csv.py
 
-- Implementar análises de dados usando LangChain
-- Criar visualizações dos dados extraídos
-- Desenvolver insights baseados nos dados da camada gold da Jornada de Dados
+Este script se conecta ao banco de dados PostgreSQL usando as credenciais fornecidas no arquivo `.env`, executa uma consulta SQL para selecionar todos os dados da tabela especificada e salva os resultados em um arquivo CSV.
+
+### teste_chatgpt.py
+
+Este script carrega os dados do arquivo CSV gerado pelo `sql_to_csv.py` e usa a API da OpenAI para realizar análises. Ele faz uma série de perguntas predefinidas sobre os dados e imprime as respostas geradas pelo modelo GPT-3.5 Turbo.
+
+## Observações
+
+- Certifique-se de manter suas credenciais e chaves de API seguras e não as compartilhe publicamente.
+- O uso da API da OpenAI pode incorrer em custos. Verifique a precificação atual antes de executar o script `teste_chatgpt.py`.
