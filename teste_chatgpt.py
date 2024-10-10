@@ -15,7 +15,7 @@ dados = df.to_string()
 
 # Função para fazer uma pergunta à API da OpenAI
 def fazer_pergunta(pergunta):
-    resposta = client.chat.completions.create(model="gpt-3.5-turbo",
+    resposta = client.chat.completions.create(model="gpt-4o-mini",
     messages=[
         {"role": "system", "content": "Você é um analista de dados especializado em e-commerce."},
         {"role": "user", "content": f"Com base nos seguintes dados:\n\n{dados}\n\n{pergunta}"}
