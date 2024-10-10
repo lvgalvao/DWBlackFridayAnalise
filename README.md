@@ -4,7 +4,7 @@ Este projeto consiste em dois scripts Python para extrair dados do Google Analyt
 
 ## Visão Geral do Pipeline
 
-[![Pipeline de Análise de Dados](pipeline.jpe)](https://youtube.com/live/INK-8RhEyrM)
+[![Pipeline de Análise de Dados](pipeline.jpg)](https://youtube.com/live/INK-8RhEyrM)
 
 Clique na imagem acima para assistir a um vídeo explicativo sobre o pipeline de análise de dados.
 
