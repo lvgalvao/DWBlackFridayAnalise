@@ -1,0 +1,205 @@
+date,city,country,device_category,session_source,session_medium,total_users,new_users,active_users,sessions,engaged_sessions,average_session_duration,screen_page_views
+2024-10-08,Rio de Janeiro,Brazil,desktop,(direct),(none),11,11,11,18,12,948.7963690000001,27
+2024-10-08,Rio de Janeiro,Brazil,desktop,youtube.com,referral,11,9,11,15,11,200.23497106666667,16
+2024-10-08,Sao Paulo,Brazil,desktop,youtube.com,referral,10,9,10,12,4,16.20046075,10
+2024-10-08,Sao Paulo,Brazil,desktop,(direct),(none),9,9,9,11,4,21.02320690909091,12
+2024-10-08,Fortaleza,Brazil,desktop,youtube.com,referral,7,6,7,10,7,206.9068722,11
+2024-10-08,Recife,Brazil,desktop,youtube.com,referral,6,4,6,7,1,145.38617157142858,4
+2024-10-08,Sao Paulo,Brazil,mobile,(direct),(none),6,5,6,6,2,29.05428783333333,5
+2024-10-08,Sao Paulo,Brazil,mobile,youtube.com,referral,6,6,6,7,4,60.57007814285714,7
+2024-10-08,Belo Horizonte,Brazil,desktop,youtube.com,referral,5,5,5,7,3,25.19698728571429,5
+2024-10-08,(not set),(not set),mobile,(direct),(none),4,4,4,4,1,26.6504355,4
+2024-10-08,(not set),Brazil,desktop,youtube.com,referral,4,4,4,4,4,948.42206725,4
+2024-10-08,(not set),Brazil,mobile,(direct),(none),4,3,4,4,2,287.98677825,3
+2024-10-08,Brasilia,Brazil,desktop,youtube.com,referral,4,4,4,5,3,614.5102626,6
+2024-10-08,Porto Alegre,Brazil,desktop,(direct),(none),4,4,4,6,2,117.80478366666667,118
+2024-10-08,Sao Jose do Rio Preto,Brazil,desktop,youtube.com,referral,4,4,4,7,4,367.81914885714286,5
+2024-10-08,(not set),Brazil,mobile,youtube.com,referral,3,3,3,3,0,0.0,3
+2024-10-08,Bauru,Brazil,desktop,youtube.com,referral,3,3,3,3,2,141.11670733333332,3
+2024-10-08,Campina Grande,Brazil,desktop,(direct),(none),3,3,3,4,2,438.67631150000005,4
+2024-10-08,Campinas,Brazil,desktop,(direct),(none),3,3,3,4,3,27.434773,4
+2024-10-08,Curitiba,Brazil,desktop,youtube.com,referral,3,3,3,4,3,305.6756715,3
+2024-10-08,Fortaleza,Brazil,desktop,8nwyj3ffk1h.typeform.com,referral,3,3,3,3,3,182.89219133333333,4
+2024-10-08,Recife,Brazil,desktop,(direct),(none),3,3,3,4,3,202.37884725,5
+2024-10-08,Rio de Janeiro,Brazil,desktop,8nwyj3ffk1h.typeform.com,referral,3,3,3,5,4,341.3084788,6
+2024-10-08,Salvador,Brazil,desktop,(direct),(none),3,3,3,4,2,724.959828,3
+2024-10-08,Salvador,Brazil,desktop,youtube.com,referral,3,3,3,5,1,354.9360056,3
+2024-10-08,(not set),Brazil,desktop,8nwyj3ffk1h.typeform.com,referral,2,2,2,2,1,27.051356000000002,3
+2024-10-08,(not set),Portugal,desktop,(direct),(none),2,2,2,2,1,191.696622,2
+2024-10-08,Belo Horizonte,Brazil,desktop,(direct),(none),2,2,2,2,2,700.658084,2
+2024-10-08,Blumenau,Brazil,desktop,youtube.com,referral,2,2,2,2,2,364.2093815,2
+2024-10-08,Camacari,Brazil,desktop,youtube.com,referral,2,2,2,2,1,795.476346,2
+2024-10-08,Campinas,Brazil,desktop,youtube.com,referral,2,2,2,2,2,1519.135899,2
+2024-10-08,Curitiba,Brazil,desktop,8nwyj3ffk1h.typeform.com,referral,2,2,2,2,1,626.347533,2
+2024-10-08,Fortaleza,Brazil,desktop,(direct),(none),2,2,2,2,1,250.209466,5
+2024-10-08,Franco da Rocha,Brazil,desktop,youtube.com,referral,2,2,2,2,2,340.5104005,2
+2024-10-08,Itupeva,Brazil,desktop,youtube.com,referral,2,2,2,2,2,207.246583,5
+2024-10-08,Natal,Brazil,desktop,youtube.com,referral,2,2,2,2,1,696.375792,2
+2024-10-08,Osasco,Brazil,desktop,(direct),(none),2,2,2,2,1,361.8433835,2
+2024-10-08,Peruibe,Brazil,desktop,youtube.com,referral,2,2,2,2,2,350.0747285,5
+2024-10-08,Recife,Brazil,desktop,zapflow.me,referral,2,2,2,2,1,276.53783450000003,4
+2024-10-08,Rio de Janeiro,Brazil,desktop,zapflow.me,referral,2,1,2,2,0,3.5751885,2
+2024-10-08,Sao Pedro da Aldeia,Brazil,desktop,youtube.com,referral,2,2,2,2,2,299.5116475,3
+2024-10-08,Serra,Brazil,desktop,youtube.com,referral,2,2,2,2,1,9.232155,2
+2024-10-08,Suzano,Brazil,desktop,(direct),(none),2,2,2,2,2,476.7829915,3
+2024-10-08,Valinhos,Brazil,desktop,youtube.com,referral,2,2,2,3,1,270.55408800000004,4
+2024-10-08,Vitoria,Brazil,desktop,zapflow.me,referral,2,2,2,2,2,268.592809,3
+2024-10-08,(not set),Brazil,desktop,(direct),(none),1,1,1,1,1,178.636997,1
+2024-10-08,(not set),India,desktop,youtube.com,referral,1,0,1,1,1,45.724838,2
+2024-10-08,(not set),Peru,desktop,youtube.com,referral,1,1,1,1,0,7.559384,1
+2024-10-08,(not set),Portugal,desktop,8nwyj3ffk1h.typeform.com,referral,1,0,1,1,0,0.0,0
+2024-10-08,(not set),United States,mobile,(direct),(none),1,1,1,1,0,0.004906,1
+2024-10-08,Amsterdam,Netherlands,mobile,(direct),(none),1,1,1,1,1,20.318985,1
+2024-10-08,Aracaju,Brazil,desktop,(direct),(none),1,1,1,1,0,0.024859,1
+2024-10-08,Aracaju,Brazil,desktop,youtube.com,referral,1,0,1,1,0,0.0,1
+2024-10-08,Aracariguama,Brazil,desktop,youtube.com,referral,1,1,1,1,1,343.447694,1
+2024-10-08,Araruama,Brazil,desktop,youtube.com,referral,1,1,1,1,1,996.477007,1
+2024-10-08,Atlanta,United States,mobile,(direct),(none),1,1,1,1,1,66.316003,2
+2024-10-08,Atlanta,United States,mobile,youtube.com,referral,1,1,1,1,0,6.054384,1
+2024-10-08,Atlanta,United States,mobile,zapflow.me,referral,1,1,1,1,1,34.912838,2
+2024-10-08,Balneario Camboriu,Brazil,desktop,(direct),(none),1,1,1,1,1,297.584053,2
+2024-10-08,Balneario Camboriu,Brazil,desktop,8nwyj3ffk1h.typeform.com,referral,1,1,1,1,0,6.601651,1
+2024-10-08,Barbacena,Brazil,desktop,8nwyj3ffk1h.typeform.com,referral,1,1,1,1,1,10.149541,1
+2024-10-08,Barbacena,Brazil,desktop,youtube.com,referral,1,1,1,1,1,918.645922,2
+2024-10-08,Barueri,Brazil,desktop,youtube.com,referral,1,1,1,1,1,65.730688,1
+2024-10-08,Belem,Brazil,desktop,(direct),(none),1,1,1,1,1,87.926473,1
+2024-10-08,Belem,Brazil,desktop,8nwyj3ffk1h.typeform.com,referral,1,1,1,1,0,6.074143,1
+2024-10-08,Belem,Brazil,mobile,(direct),(none),1,1,1,1,1,710.19535,1
+2024-10-08,Belo Horizonte,Brazil,mobile,(direct),(none),1,1,1,1,1,26.940267,1
+2024-10-08,Blumenau,Brazil,desktop,(direct),(none),1,1,1,2,1,35.5820355,2
+2024-10-08,Bogota,Colombia,desktop,youtube.com,referral,1,0,1,1,1,87.066878,1
+2024-10-08,Brasilia,Brazil,desktop,(direct),(none),1,1,1,1,0,0.0,1
+2024-10-08,Brasilia,Brazil,desktop,8nwyj3ffk1h.typeform.com,referral,1,1,1,1,1,219.501432,1
+2024-10-08,Brasilia,Brazil,mobile,(direct),(none),1,1,1,1,0,0.0073,1
+2024-10-08,Brasilia,Brazil,mobile,8nwyj3ffk1h.typeform.com,referral,1,1,1,1,0,5.966323,1
+2024-10-08,Camacari,Brazil,desktop,(direct),(none),1,1,1,1,1,558.934916,2
+2024-10-08,Campina Grande,Brazil,desktop,8nwyj3ffk1h.typeform.com,referral,1,1,1,1,0,0.001828,1
+2024-10-08,Campina Grande,Brazil,desktop,youtube.com,referral,1,1,1,1,1,74.976281,1
+2024-10-08,Campina Grande,Brazil,mobile,8nwyj3ffk1h.typeform.com,referral,1,1,1,1,0,4.784911,1
+2024-10-08,Campina Grande,Brazil,mobile,youtube.com,referral,1,1,1,1,0,6.092165,1
+2024-10-08,Campo Grande,Brazil,desktop,google,organic,1,1,1,1,1,1392.945845,1
+2024-10-08,Campos dos Goytacazes,Brazil,desktop,(direct),(none),1,1,1,1,1,35.840564,5
+2024-10-08,Campos dos Goytacazes,Brazil,desktop,youtube.com,referral,1,1,1,1,1,133.082296,8
+2024-10-08,Canoas,Brazil,desktop,(direct),(none),1,1,1,1,1,36.520837,1
+2024-10-08,Cascavel,Brazil,desktop,(direct),(none),1,1,1,1,1,79.148898,1
+2024-10-08,Cascavel,Brazil,desktop,youtube.com,referral,1,1,1,1,1,111.139216,1
+2024-10-08,Caxias do Sul,Brazil,mobile,8nwyj3ffk1h.typeform.com,referral,1,1,1,1,1,796.215963,1
+2024-10-08,Caxias do Sul,Brazil,mobile,youtube.com,referral,1,1,1,1,1,378.789572,1
+2024-10-08,Chapeco,Brazil,desktop,(direct),(none),1,1,1,1,1,717.420427,1
+2024-10-08,Contagem,Brazil,desktop,(direct),(none),1,0,1,1,1,75.56562,0
+2024-10-08,Cotia,Brazil,desktop,(direct),(none),1,1,1,1,1,34.864575,1
+2024-10-08,Cotia,Brazil,desktop,youtube.com,referral,1,1,1,1,1,613.353533,1
+2024-10-08,Curitiba,Brazil,desktop,(direct),(none),1,1,1,1,0,0.000577,1
+2024-10-08,Curitiba,Brazil,desktop,google,organic,1,1,1,1,1,615.298572,1
+2024-10-08,Curitiba,Brazil,mobile,(direct),(none),1,1,1,1,0,3.595749,1
+2024-10-08,Curitiba,Brazil,mobile,youtube.com,referral,1,1,1,1,1,336.346352,1
+2024-10-08,Dias d'Avila,Brazil,desktop,(direct),(none),1,1,1,1,0,1.382525,1
+2024-10-08,Dias d'Avila,Brazil,desktop,youtube.com,referral,1,1,1,2,1,5.779006,1
+2024-10-08,Dias d'Avila,Brazil,mobile,youtube.com,referral,1,1,1,2,0,0.0017665,2
+2024-10-08,Embu,Brazil,mobile,8nwyj3ffk1h.typeform.com,referral,1,1,1,1,0,6.65569,1
+2024-10-08,Embu,Brazil,mobile,youtube.com,referral,1,1,1,1,1,12.133993,1
+2024-10-08,Escada,Brazil,desktop,(direct),(none),1,1,1,1,1,51.973626,2
+2024-10-08,Fortaleza,Brazil,desktop,zapflow.me,referral,1,1,1,1,0,0.012673,1
+2024-10-08,Fortaleza,Brazil,mobile,youtube.com,referral,1,1,1,2,1,23.128197,4
+2024-10-08,Foz do Iguacu,Brazil,desktop,(direct),(none),1,1,1,1,1,318.390478,1
+2024-10-08,Foz do Iguacu,Brazil,desktop,youtube.com,referral,1,1,1,1,1,49.478218,1
+2024-10-08,Gravata,Brazil,desktop,youtube.com,referral,1,1,1,1,1,95.291218,2
+2024-10-08,Guacui,Brazil,mobile,youtube.com,referral,1,1,1,1,0,4.917755,1
+2024-10-08,Guapimirim,Brazil,desktop,youtube.com,referral,1,1,1,1,1,44.898569,1
+2024-10-08,Guarabira,Brazil,desktop,youtube.com,referral,1,1,1,1,1,1403.017492,1
+2024-10-08,Guarapuava,Brazil,desktop,(direct),(none),1,1,1,1,1,388.765518,2
+2024-10-08,Guarapuava,Brazil,desktop,8nwyj3ffk1h.typeform.com,referral,1,1,1,1,1,318.653125,1
+2024-10-08,Guarapuava,Brazil,desktop,youtube.com,referral,1,0,1,1,0,0.0,0
+2024-10-08,Guarulhos,Brazil,desktop,(direct),(none),1,1,1,2,0,0.0,1
+2024-10-08,Guarulhos,Brazil,mobile,youtube.com,referral,1,1,1,1,1,102.007407,1
+2024-10-08,Houston,United States,desktop,(direct),(none),1,1,1,1,0,8.339789,1
+2024-10-08,Imperatriz,Brazil,desktop,youtube.com,referral,1,1,1,1,1,129.649428,1
+2024-10-08,Itaborai,Brazil,desktop,youtube.com,referral,1,1,1,1,1,92.68162,1
+2024-10-08,Itajai,Brazil,desktop,(direct),(none),1,1,1,1,1,128.894023,1
+2024-10-08,Itajai,Brazil,desktop,youtube.com,referral,1,1,1,1,0,5.804757,1
+2024-10-08,Itajuba,Brazil,desktop,youtube.com,referral,1,1,1,1,1,52.335667,2
+2024-10-08,Itapecerica da Serra,Brazil,desktop,youtube.com,referral,1,1,1,2,1,19.968339,1
+2024-10-08,Joao Monlevade,Brazil,desktop,(direct),(none),1,1,1,1,1,609.6392,2
+2024-10-08,Joao Monlevade,Brazil,desktop,youtube.com,referral,1,1,1,1,1,1527.540023,2
+2024-10-08,Juazeiro do Norte,Brazil,desktop,youtube.com,referral,1,1,1,2,1,18.5157605,1
+2024-10-08,Juiz de Fora,Brazil,desktop,youtube.com,referral,1,1,1,1,1,20.63279,1
+2024-10-08,Jundiai,Brazil,desktop,youtube.com,referral,1,1,1,1,1,149.50602,1
+2024-10-08,Kingston,Jamaica,mobile,(direct),(none),1,1,1,1,1,12.281409,1
+2024-10-08,London,United Kingdom,desktop,youtube.com,referral,1,0,1,1,1,26.599948,4
+2024-10-08,Londrina,Brazil,desktop,youtube.com,referral,1,1,1,1,1,164.868372,2
+2024-10-08,Manaus,Brazil,desktop,youtube.com,referral,1,1,1,1,1,109.615461,3
+2024-10-08,Maringa,Brazil,desktop,youtube.com,referral,1,1,1,1,0,0.0,1
+2024-10-08,Maua,Brazil,desktop,(direct),(none),1,1,1,1,1,64.485134,1
+2024-10-08,Mogi das Cruzes,Brazil,desktop,(direct),(none),1,1,1,1,1,102.888137,1
+2024-10-08,Montes Claros,Brazil,desktop,youtube.com,referral,1,1,1,1,1,1402.731994,1
+2024-10-08,Mossoro,Brazil,desktop,(direct),(none),1,1,1,1,1,706.738268,1
+2024-10-08,Mossoro,Brazil,desktop,youtube.com,referral,1,1,1,2,1,38.949665,1
+2024-10-08,Mossoro,Brazil,mobile,youtube.com,referral,1,1,1,1,0,0.000609,1
+2024-10-08,Naaldwijk,Netherlands,mobile,(direct),(none),1,1,1,1,0,0.097315,1
+2024-10-08,Natal,Brazil,desktop,(direct),(none),1,1,1,2,0,0.0022195,1
+2024-10-08,Natal,Brazil,desktop,zapflow.me,referral,1,1,1,1,1,114.348857,1
+2024-10-08,Nova Friburgo,Brazil,desktop,youtube.com,referral,1,1,1,1,0,5.402449,1
+2024-10-08,Novo Gama,Brazil,desktop,youtube.com,referral,1,1,1,1,1,3040.347199,2
+2024-10-08,Novo Gama,Brazil,mobile,youtube.com,referral,1,1,1,1,1,253.366913,1
+2024-10-08,Novo Gama,Brazil,mobile,zapflow.me,referral,1,1,1,1,1,447.89579,3
+2024-10-08,Novo Hamburgo,Brazil,desktop,youtube.com,referral,1,1,1,1,1,1381.584595,1
+2024-10-08,Osasco,Brazil,desktop,youtube.com,referral,1,1,1,1,1,17.572816,1
+2024-10-08,Osasco,Brazil,desktop,zapflow.me,referral,1,1,1,1,1,68.551378,1
+2024-10-08,Osorio,Brazil,desktop,youtube.com,referral,1,1,1,1,1,588.505196,2
+2024-10-08,Ouro Preto,Brazil,desktop,youtube.com,referral,1,1,1,2,1,229.7787515,2
+2024-10-08,Ouro Preto,Brazil,desktop,zapflow.me,referral,1,1,1,1,1,408.268114,3
+2024-10-08,Palhoca,Brazil,desktop,(direct),(none),1,1,1,2,1,25.938316,1
+2024-10-08,Para de Minas,Brazil,mobile,(direct),(none),1,1,1,1,1,54.708959,1
+2024-10-08,Pindamonhangaba,Brazil,desktop,youtube.com,referral,1,1,1,2,1,30.113848,2
+2024-10-08,Piracicaba,Brazil,desktop,(direct),(none),1,1,1,1,1,367.508861,2
+2024-10-08,Pirassununga,Brazil,desktop,youtube.com,referral,1,1,1,1,0,4.803961,1
+2024-10-08,Pocos de Caldas,Brazil,desktop,(direct),(none),1,1,1,2,0,0.0016765,1
+2024-10-08,Ponta Grossa,Brazil,desktop,youtube.com,referral,1,1,1,1,1,69.280961,1
+2024-10-08,Porto Alegre,Brazil,desktop,8nwyj3ffk1h.typeform.com,referral,1,1,1,1,0,5.573831,1
+2024-10-08,Porto Alegre,Brazil,desktop,youtube.com,referral,1,1,1,1,1,63.605171,22
+2024-10-08,Praia Grande,Brazil,desktop,youtube.com,referral,1,1,1,1,1,303.44449,1
+2024-10-08,Quito,Ecuador,desktop,(direct),(none),1,0,1,1,1,177.744244,2
+2024-10-08,Quito,Ecuador,desktop,youtube.com,referral,1,0,1,1,1,18.778579,1
+2024-10-08,Resende,Brazil,desktop,youtube.com,referral,1,1,1,2,0,0.0,1
+2024-10-08,Rio de Janeiro,Brazil,desktop,google,organic,1,1,1,1,1,1622.858258,2
+2024-10-08,Rio de Janeiro,Brazil,desktop,tagassistant.google.com,referral,1,0,1,4,1,35.899637,3
+2024-10-08,Rio de Janeiro,Brazil,mobile,(direct),(none),1,1,1,2,1,876.4850305,4
+2024-10-08,Rio de Janeiro,Brazil,mobile,8nwyj3ffk1h.typeform.com,referral,1,1,1,1,0,4.947391,1
+2024-10-08,Rio de Janeiro,Brazil,mobile,youtube.com,referral,1,1,1,1,1,339.258903,2
+2024-10-08,Salvador,Brazil,mobile,(direct),(none),1,1,1,1,0,6.730753,1
+2024-10-08,Santa Barbara d'Oeste,Brazil,desktop,youtube.com,referral,1,1,1,2,0,0.0,2
+2024-10-08,Santa Cruz do Sul,Brazil,desktop,youtube.com,referral,1,1,1,1,0,0.017688,1
+2024-10-08,Santo Andre,Brazil,desktop,(direct),(none),1,1,1,1,1,432.276903,1
+2024-10-08,Santo Antonio de Jesus,Brazil,desktop,(direct),(none),1,1,1,1,1,86.474504,1
+2024-10-08,Sao Bernardo do Campo,Brazil,desktop,medium.com,referral,1,1,1,1,1,96.284425,1
+2024-10-08,Sao Carlos,Brazil,desktop,youtube.com,referral,1,1,1,2,1,19.9447445,1
+2024-10-08,Sao Gabriel,Brazil,mobile,(direct),(none),1,1,1,1,1,75.882761,1
+2024-10-08,Sao Goncalo,Brazil,desktop,youtube.com,referral,1,1,1,1,0,0.0,1
+2024-10-08,Sao Jose de Ribamar,Brazil,desktop,8nwyj3ffk1h.typeform.com,referral,1,1,1,1,1,13.066738,1
+2024-10-08,Sao Jose de Ribamar,Brazil,desktop,youtube.com,referral,1,1,1,1,1,68.704158,1
+2024-10-08,Sao Jose do Rio Preto,Brazil,desktop,zapflow.me,referral,1,1,1,1,1,451.031751,1
+2024-10-08,Sao Jose do Rio Preto,Brazil,mobile,youtube.com,referral,1,1,1,1,0,0.0,1
+2024-10-08,Sao Jose dos Pinhais,Brazil,desktop,(direct),(none),1,1,1,1,1,141.797375,1
+2024-10-08,Sao Miguel,Brazil,desktop,(direct),(none),1,1,1,1,1,100.373709,1
+2024-10-08,Sao Miguel do Oeste,Brazil,desktop,(direct),(none),1,1,1,1,1,23.58116,1
+2024-10-08,Sao Paulo,Brazil,desktop,google,organic,1,1,1,1,1,99.880882,2
+2024-10-08,Sao Paulo,Brazil,desktop,zapflow.me,referral,1,1,1,1,1,37.693243,1
+2024-10-08,Sao Pedro da Aldeia,Brazil,desktop,(direct),(none),1,1,1,1,1,414.827415,2
+2024-10-08,Sinop,Brazil,desktop,youtube.com,referral,1,1,1,1,1,15.917082,1
+2024-10-08,Sorocaba,Brazil,mobile,youtube.com,referral,1,1,1,1,1,39.807306,2
+2024-10-08,Sumare,Brazil,desktop,youtube.com,referral,1,1,1,1,0,0.0,1
+2024-10-08,Teresina,Brazil,desktop,youtube.com,referral,1,1,1,1,1,68.572865,1
+2024-10-08,Teresina,Brazil,mobile,(direct),(none),1,1,1,1,1,48.143943,1
+2024-10-08,Tubarao,Brazil,desktop,youtube.com,referral,1,1,1,1,0,0.012321,1
+2024-10-08,Uberaba,Brazil,desktop,(direct),(none),1,1,1,1,1,38.317415,1
+2024-10-08,Valinhos,Brazil,desktop,8nwyj3ffk1h.typeform.com,referral,1,1,1,1,1,12.960468,1
+2024-10-08,Varginha,Brazil,desktop,youtube.com,referral,1,1,1,1,1,11.940929,1
+2024-10-08,Varzea Grande,Brazil,desktop,(direct),(none),1,1,1,1,1,2005.90013,2
+2024-10-08,Varzea Grande,Brazil,desktop,youtube.com,referral,1,1,1,2,1,77.4776285,3
+2024-10-08,Viamao,Brazil,desktop,youtube.com,referral,1,1,1,2,0,0.0,1
+2024-10-08,Vila Velha,Brazil,desktop,youtube.com,referral,1,1,1,1,1,22.528587,2
+2024-10-08,Vitoria,Brazil,desktop,(direct),(none),1,1,1,1,1,408.166778,4
+2024-10-08,Vitoria,Brazil,desktop,youtube.com,referral,1,1,1,1,1,89.000215,3
+2024-10-08,Vitoria da Conquista,Brazil,desktop,youtube.com,referral,1,1,1,1,1,1871.225247,6
+2024-10-08,Votuporanga,Brazil,desktop,(direct),(none),1,1,1,1,1,639.041299,1
+2024-10-09,Santa Barbara d'Oeste,Brazil,desktop,youtube.com,referral,1,0,0,1,0,0.0,1

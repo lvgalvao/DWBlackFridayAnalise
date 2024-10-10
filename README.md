@@ -33,18 +33,18 @@ Este projeto tem como objetivo realizar uma análise de dados utilizando Python 
    ```
 4. Execute o script principal:
    ```
-   python main.py
+   python sql_to_csv.py
    ```
 
 ## Estrutura do Projeto
 
-- `main.py`: Script principal que extrai dados do banco de dados e cria um arquivo CSV
+- `sql_to_csv.py`: Script principal que extrai dados do banco de dados e cria um arquivo CSV
 - `README.md`: Este arquivo, contendo informações sobre o projeto
 - `.env`: Arquivo de configuração com variáveis de ambiente (não incluído no repositório)
 
 ## Funcionamento do main.py
 
-O script `main.py` realiza as seguintes operações:
+O script `sql_to_csv.py` realiza as seguintes operações:
 
 1. Carrega as variáveis de ambiente do arquivo `.env`
 2. Estabelece uma conexão com o banco de dados usando a URL fornecida
