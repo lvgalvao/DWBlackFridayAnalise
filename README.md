@@ -51,4 +51,4 @@ Este script carrega os dados do arquivo CSV gerado pelo `sql_to_csv.py` e usa a 
 ## Observações
 
 - Certifique-se de manter suas credenciais e chaves de API seguras e não as compartilhe publicamente.
-- O uso da API da OpenAI pode incorrer em custos. Verifique a precificação atual antes de executar o script `teste_chatgpt.py`.
+- O uso da API da OpenAI pode incorrer em custos. Verifique a precificação atual antes de executar o script `teste_chatgpt.py`
